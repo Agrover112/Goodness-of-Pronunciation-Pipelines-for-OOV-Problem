@@ -1,0 +1,6 @@
+[submodule "Goodness-of-Pronounication"]
+	path = Goodness-of-Pronounication
+	url = https://github.com/Agrover112/Goodness-of-Pronunciation
+[submodule "Goodness-of-Pronunciation"]
+	path = Goodness-of-Pronunciation
+	url = https://github.com/sweekarsud/Goodness-of-Pronunciation
