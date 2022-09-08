@@ -11,13 +11,13 @@ wavDir=$3
 transFile=$4
 ##transFile="/home/chiranjeevi/kaldi/egs/chiru/FA_wordTrans/data/allTrans.txt" #update this file with your trascriptions file
 outFile=$5
-##outFile="/home/chiranjeev_ui/kaldi/egs/chiru/FA_wordTrans/data/split1/1/text"; 
+##outFile="/home/chiranjeev_ui/kaldi/egs/chiru/FA_wordTrans/data/split1/1/text";
 currPWD=$PWD
 mkdir -p $currPWD/wavlib/lab/posteriors
 #outDir="/home/spireserver/voistutor-trash/"; # update this variable with your destination folder
 #mkdir -p $outDir
 
-i=$fileIn; 
+i=$fileIn;
 temp=`echo $fileOut | rev | cut -d"." -f2 | cut -d"/" -f1 | rev`;
 echo $temp
 
@@ -48,5 +48,5 @@ $DIR/src/featbin/paste-feats --length-tolerance=10 ark:$DIR3b/txt.ark ark:$DIR3b
 
 $DIR/src/nnet2bin/nnet-am-compute $dir/final.mdl ark:$DIR3b/feats-out.ark ark,t:$currPWD/wavlib/lab/posteriors/${temp}.ark
 #temp=`echo $fileIn | rev | cut -d"." -f2 | cut -d"/" -f1 | rev`;
-#mv $DIR3b/post.ark $currPWD/posteriors/${temp}_posterior_infile.ark 
+#mv $DIR3b/post.ark $currPWD/posteriors/${temp}_posterior_infile.ark
 #cat $DIR3b/post.ark | sed '1d' | sed 's/]//g;s/^[ \t]*//g;s/[ \t]*$//g'> $fileOut
