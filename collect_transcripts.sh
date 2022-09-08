@@ -1,5 +1,6 @@
 #!/bin/bash
-# 
+# Author: Ankit Grover
+# Date: 10/8/2022
 # Find all the transcripts present in the nested-folders and put them in one text-file
 # Usage:
 # bash collect_transcripts.sh ./train-clean-360/ transcript
