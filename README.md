@@ -16,6 +16,7 @@
 - `get_time.sh` : Get the times for ctm files. 
 - `collect_transcripts.sh` : Collect and place transcripts from sub-dirs to one file.
 - `find_oov.sh `: A file to find the OOV occurences from 2 databases.
+- `append_vocab.sh` : Append OOV lexicon entries to original Lexicon
 - `temp_q.sh` : File for pre-processing text.
 - `dict.sh`: A modified utils/prepare_dict.sh for Lexicon generation
 
