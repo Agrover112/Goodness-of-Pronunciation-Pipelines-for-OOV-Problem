@@ -12,6 +12,7 @@ Utils:
 - get_ctm.sh : Get the phone level conversation time mapping files
 - get_word_ctm.sh: Get the word level conversation time mapping files.
 - get_time.sh : Get the times for ctm files. 
+- collect_transcripts.sh : Collect and place transcripts from sub-dirs to one file.
 ```
                                  ┌────────────────────┐
                                  │                    │
