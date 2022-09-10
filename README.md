@@ -24,6 +24,12 @@ Entry-point for running the entire pipeline
 sudo bash get_acoustic_metrics.sh
 ```
 
+Outputs:
+
+- `gop/`: Contains GoP scored outputs
+- `lab/posteriors/`: Contains posterior outputs
+- `lab/posteriors/`: Contains Forced Alignments
+
 ```
                                  ┌────────────────────┐
                                  │                    │
