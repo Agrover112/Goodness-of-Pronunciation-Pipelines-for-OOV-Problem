@@ -1,14 +1,14 @@
 
 # Goodness of Pronounication Workflow
 
-Files required for copmputation
+## Files required for copmputation
 - run1File.sh : Computes Forced Alignments.
 - run1File_posterior.sh : Computation of Acoustic model Posterior Probabilities.
 - runAllFiles.sh : Calls necessary files for computation of posteriors and alignment ,GoP computation.
 - online_computation.sh: Responsible for the Online/Hybrid pipelne of GoP computation.
-- Goodness-of-pronounciation/\* : Contains Python code which calculates GoP scores using posterior and alignment inputs.
+- Goodness-of-pronounciation/prop_gop_eqn.py : Contains Python code which calculates GoP scores using posterior and alignment inputs. (Refer to comments in my fork for detailed understanding)
 
-Utils:
+## Utils:
 
 - get_ctm.sh : Get the phone level conversation time mapping files
 - get_word_ctm.sh: Get the word level conversation time mapping files.
