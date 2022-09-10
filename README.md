@@ -5,6 +5,7 @@ Files required for copmputation
 - run1File.sh : Is responsible for forced alignment
 - run1File_posteriors.sh : Is responsible for computation of Acoustic model Posterior Probabilities
 - runAllFiles.sh : Calls necessary files for computation of posteriors and alignment ,GoP computation.
+- online_computation.sh: Responsible for the Online/Hybrid pipelne of GoP computation.
 - Goodness-of-pronounciation/\* : Contains Python code which calculates GoP scores using posterior and alignment inputs.
 
 Utils:
