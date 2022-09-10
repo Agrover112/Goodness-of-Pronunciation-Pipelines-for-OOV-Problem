@@ -28,7 +28,7 @@ Outputs:
 
 - `gop/`: Contains GoP scored outputs
 - `lab/posteriors/`: Contains ID_posterior_infile.ark and ID_phone_posteriors.ark
-- `lab/posteriors/`: Contains Forced Alignments
+- `lab/`: Contains Forced Alignments outputs(phone level and word level .ctm files) ID_word_.ctm and ID_alignment_infile.txt
 
 ```
                                  ┌────────────────────┐
