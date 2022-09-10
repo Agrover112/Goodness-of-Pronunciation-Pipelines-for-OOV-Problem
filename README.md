@@ -27,7 +27,7 @@ sudo bash get_acoustic_metrics.sh
 Outputs:
 
 - `gop/`: Contains GoP scored outputs
-- `lab/posteriors/`: Contains posterior outputs
+- `lab/posteriors/`: Contains ID_posterior_infile.ark and ID_phone_posteriors.ark
 - `lab/posteriors/`: Contains Forced Alignments
 
 ```
