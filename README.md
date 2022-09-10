@@ -1,7 +1,7 @@
 
 # Goodness of Pronounication Workflow
 
-## Files required for copmputation
+## Files required for computation
 - run1File.sh : Computes Forced Alignments.
 - run1File_posterior.sh : Computation of Acoustic model Posterior Probabilities.
 - runAllFiles.sh : Calls necessary files for computation of posteriors and alignment ,GoP computation.
