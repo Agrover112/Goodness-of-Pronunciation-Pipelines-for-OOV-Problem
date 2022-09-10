@@ -19,7 +19,7 @@
 - temp_q.sh : File for pre-processing text.
 - dict.sh: A modified utils/prepare_dict.sh for Lexicon generation
 
-Entry-point for running the entire process
+Entry-point for running the entire pipeline
 ```bash
 sudo bash get_acoustic_metrics.sh
 ```
