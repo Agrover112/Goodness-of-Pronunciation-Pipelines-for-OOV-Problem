@@ -18,6 +18,12 @@
 - find_oov.sh : A file to find the OOV occurences from 2 databases.
 - temp_q.sh : File for pre-processing text.
 - dict.sh: A modified utils/prepare_dict.sh for Lexicon generation
+
+Entry-point for running the entire process
+```bash
+sudo bash get_acoustic_metrics.sh
+```
+
 ```
                                  ┌────────────────────┐
                                  │                    │
