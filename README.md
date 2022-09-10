@@ -14,6 +14,7 @@ Utils:
 - get_word_ctm.sh: Get the word level conversation time mapping files.
 - get_time.sh : Get the times for ctm files. 
 - collect_transcripts.sh : Collect and place transcripts from sub-dirs to one file.
+- find_oov.sh : A file to find the OOV occurences from 2 databases.
 ```
                                  ┌────────────────────┐
                                  │                    │
