@@ -1,0 +1,1676 @@
+Phoneme_L1_1-1 fast
+Phoneme_L1_1-2 vast
+Phoneme_L1_2-1 feel
+Phoneme_L1_2-2 veal
+Phoneme_L1_3-1 foal
+Phoneme_L1_3-2 vole
+Phoneme_L1_4-1 ferry
+Phoneme_L1_4-2 very
+Phoneme_L1_5-1 fan
+Phoneme_L1_5-2 van
+Phoneme_L1_6-1 few
+Phoneme_L1_6-2 view
+Phoneme_L1_7-1 fear
+Phoneme_L1_7-2 veer
+Phoneme_L1_8-1 file
+Phoneme_L1_8-2 vile
+Phoneme_L1_9-1 fat
+Phoneme_L1_9-2 vat
+Phoneme_L1_10-1 fail
+Phoneme_L1_10-2 veil
+Phoneme_L1_11-1 suffer
+Phoneme_L1_11-2 cover
+Phoneme_L1_12-1 deafer
+Phoneme_L1_12-2 never
+Phoneme_L1_13-1 sniffing
+Phoneme_L1_13-2 giving
+Phoneme_L1_14-1 proofing
+Phoneme_L1_14-2 proving
+Phoneme_L1_15-1 rougher
+Phoneme_L1_15-2 lover
+Phoneme_L1_16-1 sofa
+Phoneme_L1_16-2 over
+Phoneme_L1_17-1 safer
+Phoneme_L1_17-2 savour
+Phoneme_L1_18-1 offer
+Phoneme_L1_18-2 hover
+Phoneme_L1_19-1 defied
+Phoneme_L1_19-2 divide
+Phoneme_L1_20-1 refuse
+Phoneme_L1_20-2 reviews
+Phoneme_L1_21-1 leaf
+Phoneme_L1_21-2 leave
+Phoneme_L1_22-1 half
+Phoneme_L1_22-2 halve
+Phoneme_L1_23-1 calf
+Phoneme_L1_23-2 carve
+Phoneme_L1_24-1 proof
+Phoneme_L1_24-2 prove
+Phoneme_L1_25-1 surf
+Phoneme_L1_25-2 serve
+Phoneme_L1_26-1 life
+Phoneme_L1_26-2 live
+Phoneme_L1_27-1 strife
+Phoneme_L1_27-2 strive
+Phoneme_L1_28-1 ralph
+Phoneme_L1_28-2 rave
+Phoneme_L1_29-1 waif
+Phoneme_L1_29-2 wave
+Phoneme_L1_30-1 safe
+Phoneme_L1_30-2 save
+Phoneme_L1_31-1 stiff
+Phoneme_L1_31-2 sieve
+Phoneme_L1_32-1 off
+Phoneme_L1_32-2 of
+Phoneme_L1_33-1 thin
+Phoneme_L1_33-2 then
+Phoneme_L1_34-1 think
+Phoneme_L1_34-2 this
+Phoneme_L1_35-1 thief
+Phoneme_L1_35-2 these
+Phoneme_L1_36-1 thank
+Phoneme_L1_36-2 that
+Phoneme_L1_37-1 thought
+Phoneme_L1_37-2 those
+Phoneme_L1_38-1 fine
+Phoneme_L1_38-2 furs
+Phoneme_L1_38-3 thin
+Phoneme_L1_39-1 free
+Phoneme_L1_39-2 three
+Phoneme_L1_40-1 first
+Phoneme_L1_40-2 thirst
+Phoneme_L1_41-1 that
+Phoneme_L1_41-2 vat
+Phoneme_L1_42-1 they
+Phoneme_L1_42-2 vain
+Phoneme_L1_43-1 fought
+Phoneme_L1_43-2 thought
+Phoneme_L1_44-1 frill
+Phoneme_L1_44-2 thrill
+Phoneme_L1_45-1 forty
+Phoneme_L1_45-2 thirty
+Phoneme_L1_46-1 then
+Phoneme_L1_46-2 vent
+Phoneme_L1_47-1 though
+Phoneme_L1_47-2 vote
+Phoneme_L1_48-1 author
+Phoneme_L1_48-2 other
+Phoneme_L1_49-1 Arthur
+Phoneme_L1_49-2 rather
+Phoneme_L1_50-1 earthy
+Phoneme_L1_50-2 worthy
+Phoneme_L1_51-1 Martha
+Phoneme_L1_51-2 mother
+Phoneme_L1_52-1 bertha
+Phoneme_L1_52-2 further
+Phoneme_L1_53-1 growth
+Phoneme_L1_53-2 lathe
+Phoneme_L1_54-1 tooth
+Phoneme_L1_54-2 smooth
+Phoneme_L1_55-1 wreath
+Phoneme_L1_55-2 breath
+Phoneme_L1_56-1 faith
+Phoneme_L1_56-2 bath
+Phoneme_L1_57-1 moth
+Phoneme_L1_57-2 myth
+Phoneme_L1_58-1 death
+Phoneme_L1_58-2 wrath
+Phoneme_L1_59-1 author
+Phoneme_L1_59-2 offer
+Phoneme_L1_60-1 nothing
+Phoneme_L1_60-2 puffing
+Phoneme_L1_61-1 brother
+Phoneme_L1_61-2 lover
+Phoneme_L1_62-1 Arthur
+Phoneme_L1_62-2 tougher
+Phoneme_L1_63-1 toothy
+Phoneme_L1_63-2 roofing
+Phoneme_L1_64-1 leather
+Phoneme_L1_64-2 never
+Phoneme_L1_65-1 father
+Phoneme_L1_65-2 carver
+Phoneme_L1_66-1 sink
+Phoneme_L1_66-2 zinc
+Phoneme_L1_67-1 sue
+Phoneme_L1_67-2 zoo
+Phoneme_L1_68-1 said
+Phoneme_L1_68-2 zed
+Phoneme_L1_69-1 sawn
+Phoneme_L1_69-2 zone
+Phoneme_L1_70-1 seal
+Phoneme_L1_70-2 zeal
+Phoneme_L1_71-1 cyst
+Phoneme_L1_71-2 zest
+Phoneme_L1_72-1 looser
+Phoneme_L1_72-2 loser
+Phoneme_L1_73-1 lacy
+Phoneme_L1_73-2 lazy
+Phoneme_L1_74-1 buses
+Phoneme_L1_74-2 buzzes
+Phoneme_L1_75-1 fussy
+Phoneme_L1_75-2 fuzzy
+Phoneme_L1_76-1 racing
+Phoneme_L1_76-2 raising
+Phoneme_L1_77-1 place
+Phoneme_L1_77-2 plays
+Phoneme_L1_78-1 coarse
+Phoneme_L1_78-2 cause
+Phoneme_L1_79-1 loose
+Phoneme_L1_79-2 lose
+Phoneme_L1_80-1 niece
+Phoneme_L1_80-2 knees
+Phoneme_L1_81-1 price
+Phoneme_L1_81-2 prize
+Phoneme_L1_82-1 hearse
+Phoneme_L1_82-2 hers
+Phoneme_L1_83-1 bus
+Phoneme_L1_83-2 busy
+Phoneme_L1_84-1 ass
+Phoneme_L1_84-2 as
+Phoneme_L1_85-1 hiss
+Phoneme_L1_85-2 his
+Phoneme_L1_86-1 sink
+Phoneme_L1_86-2 thin
+Phoneme_L1_87-1 sing
+Phoneme_L1_87-2 thing
+Phoneme_L1_88-1 sink
+Phoneme_L1_88-2 think
+Phoneme_L1_89-1 sort
+Phoneme_L1_89-2 thought
+Phoneme_L1_90-1 sum
+Phoneme_L1_90-2 thumb
+Phoneme_L1_91-1 sigh
+Phoneme_L1_91-2 thigh
+Phoneme_L1_92-1 mouse
+Phoneme_L1_92-2 mouth
+Phoneme_L1_93-1 moss
+Phoneme_L1_93-2 mother
+Phoneme_L1_94-1 force
+Phoneme_L1_94-2 fourth
+Phoneme_L1_95-1 face
+Phoneme_L1_95-2 faith
+Phoneme_L1_96-1 pass
+Phoneme_L1_96-2 path
+Phoneme_L1_97-1 worse
+Phoneme_L1_97-2 worth
+Phoneme_L1_98-1 zoo
+Phoneme_L1_98-2 though
+Phoneme_L1_99-1 breeze
+Phoneme_L1_99-2 breathe
+Phoneme_L1_100-1 rise
+Phoneme_L1_100-2 writhe
+Phoneme_L1_101-1 teasing
+Phoneme_L1_101-2 teething
+Phoneme_L1_102-1 zed
+Phoneme_L1_102-2 then
+Phoneme_L1_103-1 close
+Phoneme_L1_103-2 clothe
+Phoneme_L1_104-1 lays
+Phoneme_L1_104-2 lathe
+Phoneme_L1_105-1 closing
+Phoneme_L1_105-2 clothing
+Phoneme_L1_106-1 miser
+Phoneme_L1_106-2 neither
+Phoneme_L1_107-1 moth
+Phoneme_L1_107-2 moss
+Phoneme_L1_108-1 myth
+Phoneme_L1_108-2 miss
+Phoneme_L1_109-1 fourth
+Phoneme_L1_109-2 force
+Phoneme_L1_110-1 breathe
+Phoneme_L1_110-2 breeze
+Phoneme_L1_111-1 write
+Phoneme_L1_111-2 rise
+Phoneme_L1_112-1 so
+Phoneme_L1_112-2 show
+Phoneme_L1_113-1 sock
+Phoneme_L1_113-2 shock
+Phoneme_L1_114-1 sort
+Phoneme_L1_114-2 short
+Phoneme_L1_115-1 person
+Phoneme_L1_115-2 Persian
+Phoneme_L1_116-1 listen
+Phoneme_L1_116-2 mission
+Phoneme_L1_117-1 lease
+Phoneme_L1_117-2 leash
+Phoneme_L1_118-1 mess
+Phoneme_L1_118-2 mesh
+Phoneme_L1_119-1 sign
+Phoneme_L1_119-2 shy
+Phoneme_L1_120-1 see
+Phoneme_L1_120-2 she
+Phoneme_L1_121-1 same
+Phoneme_L1_121-2 shame
+Phoneme_L1_122-1 missing
+Phoneme_L1_122-2 wishing
+Phoneme_L1_123-1 ass
+Phoneme_L1_123-2 ash
+Phoneme_L1_124-1 risen
+Phoneme_L1_124-2 vision
+Phoneme_L1_125-1 raisin
+Phoneme_L1_125-2 invasion
+Phoneme_L1_126-1 ruse
+Phoneme_L1_126-2 rouge
+Phoneme_L1_127-1 razor
+Phoneme_L1_127-2 erasure
+Phoneme_L1_128-1 rose
+Phoneme_L1_128-2 closure
+Phoneme_L1_129-1 bays
+Phoneme_L1_129-2 beige
+Phoneme_L1_130-1 precious
+Phoneme_L1_130-2 treasure
+Phoneme_L1_131-1 nation
+Phoneme_L1_131-2 invasion
+Phoneme_L1_132-1 condition
+Phoneme_L1_132-2 decision
+Phoneme_L1_133-1 pressure
+Phoneme_L1_133-2 measure
+Phoneme_L1_134-1 relation
+Phoneme_L1_134-2 occasion
+Phoneme_L1_135-1 harm
+Phoneme_L1_135-2 arm
+Phoneme_L1_136-1 hedge
+Phoneme_L1_136-2 edge
+Phoneme_L1_137-1 hair
+Phoneme_L1_137-2 air
+Phoneme_L1_138-1 heat
+Phoneme_L1_138-2 eat
+Phoneme_L1_139-1 hall
+Phoneme_L1_139-2 all
+Phoneme_L1_140-1 hill
+Phoneme_L1_140-2 ill
+Phoneme_L1_141-1 hear
+Phoneme_L1_141-2 ear
+Phoneme_L2_1-1 peak
+Phoneme_L2_1-2 beak
+Phoneme_L2_2-1 pack
+Phoneme_L2_2-2 back
+Phoneme_L2_3-1 port
+Phoneme_L2_3-2 bought
+Phoneme_L2_4-1 pride
+Phoneme_L2_4-2 bride
+Phoneme_L2_5-1 pit
+Phoneme_L2_5-2 bit
+Phoneme_L2_6-1 park
+Phoneme_L2_6-2 bark
+Phoneme_L2_7-1 pull
+Phoneme_L2_7-2 bull
+Phoneme_L2_8-1 plays
+Phoneme_L2_8-2 blaze
+Phoneme_L2_9-1 happy
+Phoneme_L2_9-2 shabby
+Phoneme_L2_10-1 paper
+Phoneme_L2_10-2 labour
+Phoneme_L2_11-1 simple
+Phoneme_L2_11-2 symbol
+Phoneme_L2_12-1 supper
+Phoneme_L2_12-2 rubber
+Phoneme_L2_13-1 repel
+Phoneme_L2_13-2 rebel
+Phoneme_L2_14-1 apply
+Phoneme_L2_14-2 oblige
+Phoneme_L2_15-1 marble
+Phoneme_L2_15-2 marvel
+Phoneme_L2_16-1 labour
+Phoneme_L2_16-2 favour
+Phoneme_L2_17-1 habit
+Phoneme_L2_17-2 have-it
+Phoneme_L2_18-1 rib
+Phoneme_L2_18-2 give
+Phoneme_L2_19-1 tribe
+Phoneme_L2_19-2 drive
+Phoneme_L2_20-1 ribbon
+Phoneme_L2_20-2 river
+Phoneme_L2_21-1 rubber
+Phoneme_L2_21-2 lover
+Phoneme_L2_22-1 baby
+Phoneme_L2_22-2 navy
+Phoneme_L2_23-1 cab
+Phoneme_L2_23-2 have
+Phoneme_L2_24-1 club
+Phoneme_L2_24-2 glove
+Phoneme_L2_25-1 rip
+Phoneme_L2_25-2 rib
+Phoneme_L2_26-1 rope
+Phoneme_L2_26-2 robe
+Phoneme_L2_27-1 tap
+Phoneme_L2_27-2 tab
+Phoneme_L2_28-1 cap
+Phoneme_L2_28-2 cab
+Phoneme_L2_29-1 tripe
+Phoneme_L2_29-2 tribe
+Phoneme_L2_30-1 wrap
+Phoneme_L2_30-2 grab
+Phoneme_L2_31-1 two
+Phoneme_L2_31-2 do
+Phoneme_L2_32-1 ten
+Phoneme_L2_32-2 den
+Phoneme_L2_33-1 ton
+Phoneme_L2_33-2 done
+Phoneme_L2_34-1 tune
+Phoneme_L2_34-2 dune
+Phoneme_L2_35-1 torn
+Phoneme_L2_35-2 dawn
+Phoneme_L2_36-1 tie
+Phoneme_L2_36-2 die
+Phoneme_L2_37-1 town
+Phoneme_L2_37-2 down
+Phoneme_L2_38-1 twin
+Phoneme_L2_38-2 dwindle
+Phoneme_L2_39-1 writer
+Phoneme_L2_39-2 rider
+Phoneme_L2_40-1 latter
+Phoneme_L2_40-2 ladder
+Phoneme_L2_41-1 whitish
+Phoneme_L2_41-2 widish
+Phoneme_L2_42-1 wetting
+Phoneme_L2_42-2 wedding
+Phoneme_L2_43-1 water
+Phoneme_L2_43-2 warder
+Phoneme_L2_44-1 putting
+Phoneme_L2_44-2 pudding
+Phoneme_L2_45-1 breeding
+Phoneme_L2_45-2 breathing
+Phoneme_L2_46-1 loading
+Phoneme_L2_46-2 loathing
+Phoneme_L2_47-1 ladder
+Phoneme_L2_47-2 lather
+Phoneme_L2_48-1 side
+Phoneme_L2_48-2 scythe
+Phoneme_L2_49-1 bet
+Phoneme_L2_49-2 bed
+Phoneme_L2_50-1 late
+Phoneme_L2_50-2 laid
+Phoneme_L2_51-1 set
+Phoneme_L2_51-2 said
+Phoneme_L2_52-1 heart
+Phoneme_L2_52-2 hard
+Phoneme_L2_53-1 sight
+Phoneme_L2_53-2 side
+Phoneme_L2_54-1 brought
+Phoneme_L2_54-2 broad
+Phoneme_L2_55-1 cave
+Phoneme_L2_55-2 gave
+Phoneme_L2_56-1 curl
+Phoneme_L2_56-2 girl
+Phoneme_L2_57-1 cap
+Phoneme_L2_57-2 gap
+Phoneme_L2_58-1 class
+Phoneme_L2_58-2 glass
+Phoneme_L2_59-1 card
+Phoneme_L2_59-2 guard
+Phoneme_L2_60-1 could
+Phoneme_L2_60-2 good
+Phoneme_L2_61-1 coal
+Phoneme_L2_61-2 goal
+Phoneme_L2_62-1 crow
+Phoneme_L2_62-2 grow
+Phoneme_L2_63-1 licking
+Phoneme_L2_63-2 digging
+Phoneme_L2_64-1 weaker
+Phoneme_L2_64-2 eager
+Phoneme_L2_65-1 market
+Phoneme_L2_65-2 target
+Phoneme_L2_66-1 lacking
+Phoneme_L2_66-2 lagging
+Phoneme_L2_67-1 thicker
+Phoneme_L2_67-2 trigger
+Phoneme_L2_68-1 ankle
+Phoneme_L2_68-2 angle
+Phoneme_L2_69-1 pick
+Phoneme_L2_69-2 pig
+Phoneme_L2_70-1 back
+Phoneme_L2_70-2 bag
+Phoneme_L2_71-1 lake
+Phoneme_L2_71-2 plague
+Phoneme_L2_72-1 dock
+Phoneme_L2_72-2 dog
+Phoneme_L2_73-1 lock
+Phoneme_L2_73-2 log
+Phoneme_L2_74-1 broke
+Phoneme_L2_74-2 rogue
+Phoneme_L2_75-1 chin
+Phoneme_L2_75-2 gin
+Phoneme_L2_76-1 cheer
+Phoneme_L2_76-2 jeer
+Phoneme_L2_77-1 choke
+Phoneme_L2_77-2 joke
+Phoneme_L2_78-1 chest
+Phoneme_L2_78-2 jest
+Phoneme_L2_79-1 choice
+Phoneme_L2_79-2 joyce
+Phoneme_L2_80-1 riches
+Phoneme_L2_80-2 ridges
+Phoneme_L2_81-1 catching
+Phoneme_L2_81-2 cadging
+Phoneme_L2_82-1 fetching
+Phoneme_L2_82-2 edging
+Phoneme_L2_83-1 batches
+Phoneme_L2_83-2 badges
+Phoneme_L2_84-1 watching
+Phoneme_L2_84-2 lodging
+Phoneme_L2_85-1 kitchen
+Phoneme_L2_85-2 pigeon
+Phoneme_L2_86-1 rich
+Phoneme_L2_86-2 ridge
+Phoneme_L2_87-1 search
+Phoneme_L2_87-2 surge
+Phoneme_L2_88-1 fetch
+Phoneme_L2_88-2 edge
+Phoneme_L2_89-1 catch
+Phoneme_L2_89-2 cadge
+Phoneme_L2_90-1 watch
+Phoneme_L2_90-2 lodge
+Phoneme_L2_91-1 H
+Phoneme_L2_91-2 age
+Phoneme_L2_92-1 shoe
+Phoneme_L2_92-2 chew
+Phoneme_L2_93-1 washing
+Phoneme_L2_93-2 watching
+Phoneme_L2_94-1 wish
+Phoneme_L2_94-2 witch
+Phoneme_L2_95-1 leisure
+Phoneme_L2_95-2 ledge
+Phoneme_L2_96-1 shop
+Phoneme_L2_96-2 chop
+Phoneme_L2_97-1 cashing
+Phoneme_L2_97-2 catching
+Phoneme_L2_98-1 cash
+Phoneme_L2_98-2 catch
+Phoneme_L2_99-1 measure
+Phoneme_L2_99-2 major
+Phoneme_L3_1-1 sin
+Phoneme_L3_1-2 sing
+Phoneme_L3_2-1 ran
+Phoneme_L3_2-2 rang
+Phoneme_L3_3-1 tons
+Phoneme_L3_3-2 tongue
+Phoneme_L3_4-1 son
+Phoneme_L3_4-2 sung
+Phoneme_L3_5-1 him
+Phoneme_L3_5-2 tin
+Phoneme_L3_6-1 room
+Phoneme_L3_6-2 soon
+Phoneme_L3_7-1 games
+Phoneme_L3_7-2 sins
+Phoneme_L3_8-1 limp
+Phoneme_L3_8-2 find
+Phoneme_L3_9-1 lamb
+Phoneme_L3_9-2 send
+Phoneme_L3_10-1 hone
+Phoneme_L3_10-2 home
+Phoneme_L3_11-1 cane
+Phoneme_L3_11-2 came
+Phoneme_L3_12-1 Nane
+Phoneme_L3_12-2 name
+Phoneme_L3_13-1 sane
+Phoneme_L3_13-2 same
+Phoneme_L3_14-1 Han
+Phoneme_L3_14-2 ham
+Phoneme_L3_15-1 cuns
+Phoneme_L3_15-2 comes
+Phoneme_L4_1-1 low
+Phoneme_L4_1-2 no
+Phoneme_L4_2-1 light
+Phoneme_L4_2-2 night
+Phoneme_L4_3-1 let
+Phoneme_L4_3-2 net
+Phoneme_L4_4-1 lead
+Phoneme_L4_4-2 need
+Phoneme_L4_5-1 labour
+Phoneme_L4_5-2 neighbour
+Phoneme_L4_6-1 lip
+Phoneme_L4_6-2 nip
+Phoneme_L4_7-1 verse
+Phoneme_L4_7-2 worse
+Phoneme_L4_8-1 veal
+Phoneme_L4_8-2 wheel
+Phoneme_L4_9-1 vary
+Phoneme_L4_9-2 wary
+Phoneme_L4_10-1 reward
+Phoneme_L4_10-2 reveal
+Phoneme_L4_11-1 forward
+Phoneme_L4_11-2 hovered
+Phoneme_L4_12-1 vine
+Phoneme_L4_12-2 wine
+Phoneme_L4_13-1 vile
+Phoneme_L4_13-2 while
+Phoneme_L4_14-1 veil
+Phoneme_L4_14-2 wail
+Phoneme_L4_15-1 away
+Phoneme_L4_15-2 avail
+Phoneme_L4_16-1 light
+Phoneme_L4_16-2 night
+Phoneme_L4_17-1 lead
+Phoneme_L4_17-2 need
+Phoneme_L4_18-1 lock
+Phoneme_L4_18-2 knock
+Phoneme_L4_19-1 belly
+Phoneme_L4_19-2 Bennie
+Phoneme_L4_20-1 call-us
+Phoneme_L4_20-2 corners
+Phoneme_L4_21-1 spill-it
+Phoneme_L4_21-2 spin-it
+Phoneme_L4_22-1 teller
+Phoneme_L4_22-2 tenor
+Phoneme_L4_23-1 true
+Phoneme_L4_23-2 chew
+Phoneme_L4_24-1 train
+Phoneme_L4_24-2 chain
+Phoneme_L4_25-1 trip
+Phoneme_L4_25-2 chip
+Phoneme_L4_26-1 trap
+Phoneme_L4_26-2 chap
+Phoneme_L4_27-1 drain
+Phoneme_L4_27-2 Jane
+Phoneme_L4_28-1 drew
+Phoneme_L4_28-2 Jew
+Phoneme_L4_29-1 draw
+Phoneme_L4_29-2 jaw
+Phoneme_L4_30-1 drunk
+Phoneme_L4_30-2 junk
+Phoneme_L5_1-1 you
+Phoneme_L5_1-2 your
+Phoneme_L5_2-1 yacht
+Phoneme_L5_2-2 yet
+Phoneme_L5_3-1 due
+Phoneme_L5_3-2 few
+Phoneme_L5_4-1 new
+Phoneme_L5_4-2 view
+Phoneme_L5_5-1 Tuesday
+Phoneme_L5_5-2 computer
+Phoneme_L5_6-1 tune
+Phoneme_L5_6-2 queue
+Phoneme_L5_7-1 pure
+Phoneme_L5_7-2 accrue
+Phoneme_L5_8-1 watch
+Phoneme_L5_8-2 win
+Phoneme_L5_9-1 wet
+Phoneme_L5_9-2 we
+Phoneme_L5_10-1 white
+Phoneme_L5_10-2 wait
+Phoneme_L5_11-1 bill
+Phoneme_L5_11-2 feel
+Phoneme_L5_12-1 owl
+Phoneme_L5_12-2 oil
+Phoneme_L5_13-1 fools
+Phoneme_L5_13-2 belt
+Phoneme_L5_14-1 called
+Phoneme_L5_14-2 pulls
+Phoneme_L5_15-1 tail
+Phoneme_L5_15-2 mile
+Phoneme_L5_16-1 leaf
+Phoneme_L5_16-2 letter
+Phoneme_L5_17-1 lost
+Phoneme_L5_17-2 loose
+Phoneme_L5_18-1 spy
+Phoneme_L5_18-2 spur
+Phoneme_L5_19-1 spear
+Phoneme_L5_19-2 spare
+Phoneme_L5_20-1 stay
+Phoneme_L5_20-2 star
+Phoneme_L5_21-1 store
+Phoneme_L5_21-2 steer
+Phoneme_L5_22-1 sky
+Phoneme_L5_22-2 scar
+Phoneme_L5_23-1 score
+Phoneme_L5_23-2 scare
+Phoneme_L5_24-1 sphere
+Phoneme_L5_24-2 spherical
+Phoneme_L5_25-1 smile
+Phoneme_L5_25-2 smoke
+Phoneme_L5_26-1 smell
+Phoneme_L5_26-2 smear
+Phoneme_L5_27-1 snow
+Phoneme_L5_27-2 snore
+Phoneme_L5_28-1 slow
+Phoneme_L5_28-2 shy
+Phoneme_L5_29-1 snake
+Phoneme_L5_29-2 snack
+Phoneme_L5_30-1 slip
+Phoneme_L5_30-2 slack
+Phoneme_L5_31-1 sweet
+Phoneme_L5_31-2 sway
+Phoneme_L5_32-1 swan
+Phoneme_L5_32-2 swoop
+Phoneme_L5_33-1 suit
+Phoneme_L5_33-2 sue
+Phoneme_L5_34-1 assume
+Phoneme_L5_34-2 pursue
+Phoneme_L5_35-1 play
+Phoneme_L5_35-2 pray
+Phoneme_L5_36-1 twice
+Phoneme_L5_36-2 tune
+Phoneme_L5_37-1 quite
+Phoneme_L5_37-2 cure
+Phoneme_L5_38-1 beauty
+Phoneme_L5_38-2 dress
+Phoneme_L5_39-1 glass
+Phoneme_L5_39-2 green
+Phoneme_L5_40-1 pure
+Phoneme_L5_40-2 try
+Phoneme_L5_41-1 climb
+Phoneme_L5_41-2 cry
+Phoneme_L5_42-1 blow
+Phoneme_L5_42-2 bread
+Phoneme_L5_43-1 dwell
+Phoneme_L5_43-2 duty
+Phoneme_L5_44-1 fly
+Phoneme_L5_44-2 from
+Phoneme_L5_45-1 music
+Phoneme_L5_45-2 new
+Phoneme_L5_46-1 throw
+Phoneme_L5_46-2 three
+Phoneme_L5_47-1 thread
+Phoneme_L5_47-2 threw
+Phoneme_L5_48-1 shrink
+Phoneme_L5_48-2 shred
+Phoneme_L5_49-1 shrill
+Phoneme_L5_49-2 shrewd
+Phoneme_L5_50-1 spread
+Phoneme_L5_50-2 stupid
+Phoneme_L5_51-1 straight
+Phoneme_L5_51-2 skewed
+Phoneme_L5_52-1 screw
+Phoneme_L5_52-2 splendid
+Phoneme_L5_53-1 spurious
+Phoneme_L5_53-2 square
+Phoneme_L5_54-1 slept
+Phoneme_L5_54-2 interrupts
+Phoneme_L5_55-1 contacts
+Phoneme_L5_55-2 reacts
+Phoneme_L5_56-1 adopts
+Phoneme_L5_56-2 protects
+Phoneme_L5_57-1 written
+Phoneme_L5_57-2 Britain
+Phoneme_L5_58-1 hidden
+Phoneme_L5_58-2 burden
+Phoneme_L5_59-1 certain
+Phoneme_L5_59-2 frighten
+Phoneme_L5_60-1 pardon
+Phoneme_L5_60-2 wooden
+Phoneme_L5_61-1 loudness
+Phoneme_L5_61-2 partner
+Phoneme_L5_62-1 whiteness
+Phoneme_L5_62-2 witness
+Phoneme_L5_63-1 sadness
+Phoneme_L5_63-2 kidney
+Phoneme_L5_64-1 pardoned
+Phoneme_L5_64-2 riddance
+Phoneme_L5_65-1 gardens
+Phoneme_L5_65-2 shortened
+Phoneme_L5_66-1 utmost
+Phoneme_L5_66-2 atmosphere
+Phoneme_L5_67-1 excitement
+Phoneme_L5_67-2 admire
+Phoneme_L5_68-1 admit
+Phoneme_L5_68-2 oddment
+Phoneme_L5_69-1 acknowledge
+Phoneme_L5_69-2 fragment
+Phoneme_L5_70-1 middle
+Phoneme_L5_70-2 muddle
+Phoneme_L5_71-1 battle
+Phoneme_L5_71-2 little
+Phoneme_L5_72-1 huddled
+Phoneme_L5_72-2 models
+Phoneme_L5_73-1 titles
+Phoneme_L5_73-2 mottled
+Phoneme_L5_74-1 curdled
+Phoneme_L5_74-2 battles
+Phoneme_L5_75-1 panel
+Phoneme_L5_75-2 unless
+Phoneme_L5_76-1 tunnel
+Phoneme_L5_76-2 Finland
+Phoneme_L5_77-1 cups
+Phoneme_L5_77-2 weaks
+Phoneme_L5_78-1 jobs
+Phoneme_L5_78-2 dams
+Phoneme_L5_79-1 eggs
+Phoneme_L5_79-2 songs
+Phoneme_L5_80-1 laughed
+Phoneme_L5_80-2 washed
+Phoneme_L5_81-1 proved
+Phoneme_L5_81-2 seemed
+Phoneme_L5_82-1 gazed
+Phoneme_L5_82-2 banged
+Phoneme_L5_83-1 cats
+Phoneme_L5_83-2 laughs
+Phoneme_L5_84-1 goods
+Phoneme_L5_84-2 turns
+Phoneme_L5_85-1 drivers
+Phoneme_L5_85-2 wells
+Phoneme_L5_86-1 missed
+Phoneme_L5_86-2 watched
+Phoneme_L5_87-1 judged
+Phoneme_L5_87-2 jilted
+Phoneme_L5_88-1 eighth
+Phoneme_L5_88-2 fifth
+Phoneme_L5_89-1 breadth
+Phoneme_L5_89-2 length
+Phoneme_L5_90-1 tenth
+Phoneme_L5_90-2 width
+Phoneme_L5_91-1 health
+Phoneme_L5_91-2 hundredth
+Phoneme_L5_92-1 strength
+Phoneme_L5_92-2 twelfth
+Phoneme_L5_93-1 help
+Phoneme_L5_93-2 fault
+Phoneme_L5_94-1 else
+Phoneme_L5_94-2 welsh
+Phoneme_L5_95-1 film
+Phoneme_L5_95-2 help
+Phoneme_L5_96-1 milk
+Phoneme_L5_96-2 shelf
+Phoneme_L5_97-1 shelve
+Phoneme_L5_97-2 bulge
+Phoneme_L5_98-1 sense
+Phoneme_L5_98-2 jump
+Phoneme_L5_99-1 punch
+Phoneme_L5_99-2 thank
+Phoneme_L5_100-1 revenge
+Phoneme_L5_100-2 triumph
+Phoneme_L6_1-1 lead
+Phoneme_L6_1-2 lid
+Phoneme_L6_1-3 led
+Phoneme_L6_2-1 wheat
+Phoneme_L6_2-2 wit
+Phoneme_L6_2-3 wet
+Phoneme_L6_3-1 been
+Phoneme_L6_3-2 bin
+Phoneme_L6_3-3 Ben
+Phoneme_L6_4-1 cheek
+Phoneme_L6_4-2 chick
+Phoneme_L6_4-3 check
+Phoneme_L6_5-1 feel
+Phoneme_L6_5-2 fill
+Phoneme_L6_5-3 fell
+Phoneme_L6_6-1 reach
+Phoneme_L6_6-2 rich
+Phoneme_L6_6-3 wretch
+Phoneme_L6_7-1 ten
+Phoneme_L6_7-2 tan
+Phoneme_L6_7-3 ton
+Phoneme_L6_8-1 bet
+Phoneme_L6_8-2 bat
+Phoneme_L6_8-3 but
+Phoneme_L6_9-1 pen
+Phoneme_L6_9-2 pan
+Phoneme_L6_9-3 pun
+Phoneme_L6_10-1 six
+Phoneme_L6_10-2 sacks
+Phoneme_L6_10-3 sucks
+Phoneme_L6_11-1 dead
+Phoneme_L6_11-2 dad
+Phoneme_L6_11-3 dud
+Phoneme_L6_12-1 mesh
+Phoneme_L6_12-2 mash
+Phoneme_L6_12-3 mush
+Phoneme_L6_13-1 luck
+Phoneme_L6_13-2 lark
+Phoneme_L6_13-3 lock
+Phoneme_L6_14-1 cud
+Phoneme_L6_14-2 card
+Phoneme_L6_14-3 cod
+Phoneme_L6_15-1 duck
+Phoneme_L6_15-2 dark
+Phoneme_L6_15-3 dock
+Phoneme_L6_16-1 bucks
+Phoneme_L6_16-2 barks
+Phoneme_L6_16-3 box
+Phoneme_L6_17-1 cup
+Phoneme_L6_17-2 carp
+Phoneme_L6_17-3 cop
+Phoneme_L6_18-1 wad
+Phoneme_L6_18-2 ward
+Phoneme_L6_18-3 would
+Phoneme_L6_18-4 wooed
+Phoneme_L6_19-1 lock
+Phoneme_L6_19-2 look
+Phoneme_L6_19-3 luke
+Phoneme_L6_20-1 poll
+Phoneme_L6_20-2 Paul
+Phoneme_L6_20-3 pull
+Phoneme_L6_20-4 pool
+Phoneme_L6_21-1 leak
+Phoneme_L6_21-2 lick
+Phoneme_L6_21-3 lack
+Phoneme_L6_21-4 luck
+Phoneme_L6_22-1 heel
+Phoneme_L6_22-2 hill
+Phoneme_L6_22-3 hell
+Phoneme_L6_22-4 hall
+Phoneme_L6_23-1 teen
+Phoneme_L6_23-2 tin
+Phoneme_L6_23-3 ten
+Phoneme_L6_23-4 tan
+Phoneme_L6_23-5 ton
+Phoneme_L6_24-1 neat
+Phoneme_L6_24-2 knit
+Phoneme_L6_24-3 net
+Phoneme_L6_24-4 gnat
+Phoneme_L6_24-5 nut
+Phoneme_L6_25-1 least
+Phoneme_L6_25-2 list
+Phoneme_L6_25-3 lest
+Phoneme_L6_25-4 lust
+Phoneme_L6_26-1 ream
+Phoneme_L6_26-2 rim
+Phoneme_L6_26-3 ram
+Phoneme_L6_26-4 rum
+Phoneme_L6_27-1 beat
+Phoneme_L6_27-2 bit
+Phoneme_L6_27-3 bet
+Phoneme_L6_27-4 bat
+Phoneme_L6_27-5 but
+Phoneme_L6_28-1 purse
+Phoneme_L6_28-2 pass
+Phoneme_L6_29-1 heard
+Phoneme_L6_29-2 hard
+Phoneme_L6_30-1 perched
+Phoneme_L6_30-2 parched
+Phoneme_L6_31-1 burn
+Phoneme_L6_31-2 barn
+Phoneme_L6_32-1 firm
+Phoneme_L6_32-2 farm
+Phoneme_L6_33-1 lurks
+Phoneme_L6_33-2 larks
+Phoneme_L7_1-1 low
+Phoneme_L7_1-2 law
+Phoneme_L7_2-1 snow
+Phoneme_L7_2-2 snore
+Phoneme_L7_3-1 close
+Phoneme_L7_3-2 claws
+Phoneme_L7_4-1 coal
+Phoneme_L7_4-2 call
+Phoneme_L7_5-1 so
+Phoneme_L7_5-2 saw
+Phoneme_L7_6-1 boat
+Phoneme_L7_6-2 bought
+Phoneme_L7_7-1 coke
+Phoneme_L7_7-2 cork
+Phoneme_L7_8-1 now
+Phoneme_L7_8-2 know
+Phoneme_L7_9-1 loud
+Phoneme_L7_9-2 load
+Phoneme_L7_10-1 found
+Phoneme_L7_10-2 phoned
+Phoneme_L7_11-1 doubt
+Phoneme_L7_11-2 dote
+Phoneme_L7_12-1 towns
+Phoneme_L7_12-2 tones
+Phoneme_L7_13-1 late
+Phoneme_L7_13-2 let
+Phoneme_L7_14-1 paper
+Phoneme_L7_14-2 pepper
+Phoneme_L7_15-1 rake
+Phoneme_L7_15-2 wreck
+Phoneme_L7_16-1 sail
+Phoneme_L7_16-2 sell
+Phoneme_L7_17-1 trade
+Phoneme_L7_17-2 tread
+Phoneme_L7_18-1 fail
+Phoneme_L7_18-2 fell
+Phoneme_L7_19-1 white
+Phoneme_L7_19-2 wait
+Phoneme_L7_20-1 rice
+Phoneme_L7_20-2 race
+Phoneme_L7_21-1 like
+Phoneme_L7_21-2 lake
+Phoneme_L7_22-1 lied
+Phoneme_L7_22-2 laid
+Phoneme_L7_23-1 rise
+Phoneme_L7_23-2 raise
+Phoneme_L7_24-1 file
+Phoneme_L7_24-2 fail
+Phoneme_L7_25-1 here
+Phoneme_L7_25-2 hair
+Phoneme_L7_26-1 steered
+Phoneme_L7_26-2 stared
+Phoneme_L7_27-1 really
+Phoneme_L7_27-2 rarely
+Phoneme_L7_28-1 beer
+Phoneme_L7_28-2 bare
+Phoneme_L7_29-1 ears
+Phoneme_L7_29-2 airs
+Phoneme_L7_30-1 weary
+Phoneme_L7_30-2 worry
+Phoneme_L8_1-1 again
+Phoneme_L8_1-2 better
+Phoneme_L8_2-1 contain
+Phoneme_L8_2-2 Asia
+Phoneme_L8_3-1 post
+Phoneme_L8_3-2 man
+Phoneme_L8_3-3 collar
+Phoneme_L8_4-1 condemn
+Phoneme_L8_4-2 Saturday
+Phoneme_L8_5-1 perhaps
+Phoneme_L8_5-2 entertain
+Phoneme_L8_6-1 dinners
+Phoneme_L8_6-2 embarrass
+Phoneme_L8_7-1 amateur
+Phoneme_L8_7-2 hindered
+Phoneme_L8_8-1 comfortable
+Phoneme_L8_8-2 glamorous
+Phoneme_L8_9-1 ignorant
+Phoneme_L8_9-2 component
+Phoneme_L8_10-1 understand
+Phoneme_L8_10-2 characters
+Phoneme_L8_11-1 permanent
+Phoneme_L8_11-2 menace
+Phoneme_L8_12-1 obey
+Phoneme_L8_12-2 attend
+Phoneme_L8_13-1 allow
+Phoneme_L8_13-2 obstruct
+Phoneme_L8_14-1 amount
+Phoneme_L8_14-2 achieve
+Phoneme_L8_15-1 adore
+Phoneme_L8_15-2 account
+Phoneme_L8_16-1 annoy
+Phoneme_L8_16-2 aside
+Phoneme_L8_17-1 approve
+Phoneme_L8_17-2 agree
+Phoneme_L8_18-1 appear
+Phoneme_L8_18-2 offence
+Phoneme_L8_19-1 sooner
+Phoneme_L8_19-2 sailor
+Phoneme_L8_20-1 measure
+Phoneme_L8_20-2 collar
+Phoneme_L8_21-1 sulphur
+Phoneme_L8_21-2 chauffeur
+Phoneme_L8_22-1 Africa
+Phoneme_L8_22-2 America
+Phoneme_L8_23-1 Persia
+Phoneme_L8_23-2 Canada
+Phoneme_L8_24-1 flatterer
+Phoneme_L8_24-2 admirer
+Phoneme_L8_25-1 colour
+Phoneme_L8_25-2 zephyr
+Phoneme_L8_26-1 picture
+Phoneme_L8_26-2 china
+Phoneme_L8_27-1 murderer
+Phoneme_L8_27-2 composer
+Phoneme_L8_28-1 lyre
+Phoneme_L8_28-2 tower
+Phoneme_L8_29-1 trial
+Phoneme_L8_29-2 trowel
+Phoneme_L8_30-1 quiet
+Phoneme_L8_30-2 tired
+Phoneme_L8_31-1 buyer
+Phoneme_L8_31-2 bower
+Phoneme_L8_32-1 flyer
+Phoneme_L8_32-2 flower
+Phoneme_L8_33-1 iron
+Phoneme_L8_33-2 riot
+Phoneme_L8_34-1 ours
+Phoneme_L8_34-2 showery
+Phoneme_L8_35-1 greyer
+Phoneme_L8_35-2 royal
+Phoneme_L8_35-3 thrower
+Phoneme_L8_36-1 grower
+Phoneme_L8_36-2 followers
+Phoneme_L8_36-3 betrayal
+Phoneme_L8_37-1 player
+Phoneme_L8_37-2 employer
+Phoneme_L8_37-3 lawyers
+Phoneme_L8_38-1 being
+Phoneme_L8_39-1 drawing
+Phoneme_L8_40-1 seeing
+Phoneme_L8_41-1 doing
+Phoneme_L8_42-1 going
+Phoneme_L8_43-1 stewing
+Phoneme_L8_44-1 knowing
+Phoneme_L8_45-1 allowing
+Phoneme_L8_46-1 bowing
+Stress_L1_1 father
+Stress_L1_2 any
+Stress_L1_3 steadily
+Stress_L1_4 excellently
+Stress_L1_5 obstinacy
+Stress_L1_6 reasonableness
+Stress_L1_7 about
+Stress_L1_8 before
+Stress_L1_9 attractive
+Stress_L1_10 beginning
+Stress_L1_11 intelligent
+Stress_L1_12 magnificently
+Stress_L1_13 fourteen
+Stress_L1_14 Half-hearted
+Stress_L1_15 disbelieve
+Stress_L1_16 contradiction
+Stress_L1_17 qualification
+Stress_L1_18 examination
+Stress_L1_19 terrified
+Stress_L1_20 indicate
+Stress_L1_21 contain
+Stress_L1_22 contents
+Stress_L1_23 obtain
+Stress_L1_24 object
+Stress_L1_25 permit
+Stress_L1_26 provide
+Stress_L1_27 photograph
+Stress_L1_28 prepare
+Stress_L1_29 combine
+Stress_L1_30 convert
+Stress_L1_31 perfect
+Stress_L1_32 progress
+Stress_L1_33 photography
+Stress_L1_34 preparation
+Stress_L1_35 combination
+Stress_L1_36 invent
+Stress_L1_37 plenty
+Stress_L1_38 anything
+Stress_L1_39 hiccough
+Stress_L1_40 utility
+Stress_L1_41 thank-you
+Stress_L1_42 window
+Stress_L1_43 translate
+Stress_L1_44 maintain
+Stress_L1_45 decide
+Stress_L1_46 vibrate
+Stress_L1_47 auspicious
+Stress_L1_48 garage
+Stress_L2_1 right place
+Stress_L2_2 white board
+Stress_L2_3 not me
+Stress_L2_4 hard path
+Stress_L2_5 good boy
+Stress_L2_6 good morning
+Stress_L2_7 gone past
+Stress_L2_8 gone back
+Stress_L2_9 ten men
+Stress_L2_10 white coast
+Stress_L2_11 that girl
+Stress_L2_12 bad cold
+Stress_L2_13 red gate
+Stress_L2_14 one cup
+Stress_L2_15 main gate
+Stress_L2_16 nine shoes
+Stress_L2_17 this year
+Stress_L2_18 those shapes
+Stress_L2_19 where's yours
+Stress_L2_20 I have to
+Stress_L2_21 he has to
+Stress_L2_22 last time
+Stress_L2_23 fast bus
+Stress_L2_24 best man
+Stress_L2_25 first night
+Stress_L2_26 west side
+Stress_L2_27 best friend
+Stress_L2_28 lift boy
+Stress_L2_29 stuffed chicken
+Stress_L2_30 soft mattress
+Stress_L2_31 left knee
+Stress_L2_32 left shoe
+Stress_L2_33 soft snow
+Stress_L2_34 blind man
+Stress_L2_35 kind nurse
+Stress_L2_36 stand guard
+Stress_L2_37 lacked car
+Stress_L2_38 strict parents
+Stress_L2_39 he stopped behind
+Stress_L2_40 dragged back
+Stress_L2_41 grand mother
+Stress_L2_42 postman
+Stress_L2_43 handsome
+Stress_L2_44 draughts man
+Stress_L2_45 castle
+Stress_L2_46 family
+Stress_L2_47 garden
+Stress_L2_48 Edinburgh
+Stress_L2_49 awful
+Stress_L2_50 evil
+Stress_L2_51 interest
+Stress_L2_52 history
+Stress_L3_1 black and white
+Stress_L3_2 as good as gold
+Stress_L3_3 but why not?
+Stress_L3_4 better than Ever
+Stress_L3_5 I admit that I did it
+Stress_L3_6 did he win?
+Stress_L3_7 give him too
+Stress_L3_8 I like his tie
+Stress_L3_9 take her home
+Stress_L3_10 send them by post
+Stress_L3_11 lets do it now
+Stress_L3_12 when does the train leave?
+Stress_L3_13 I am tired
+Stress_L3_14 when am I?
+Stress_L3_15 the girls are beautiful
+Stress_L3_16 these ones are ugly
+Stress_L3_17 don't be rude
+Stress_L3_18 that is fine
+Stress_L3_19 where's John?
+Stress_L3_20 the weather was terrible
+Stress_L3_21 the players are changed
+Stress_L3_22 John has gone
+Stress_L3_23 John has been sick
+Stress_L3_24 you have broken it
+Stress_L3_25 they had left home
+Stress_L3_26 the day had been fine
+Stress_L3_27 how can I help?
+Stress_L3_28 I shall be cross
+Stress_L3_29 they will give it away
+Stress_L3_30 this will do
+Stress_L3_31 the boy will choose the girl
+Stress_L3_32 I would do it
+Stress_L3_33 John would do it
+Stress_L3_34 I must tell him
+Stress_L3_35 a pound a day
+Stress_L3_36 have an apple
+Stress_L3_37 the mad maria
+Stress_L3_38 I need some people
+Stress_L3_39 come at once
+Stress_L3_40 came for tea
+Stress_L3_41 came for milk
+Stress_L3_42 I sent it from London
+Stress_L3_43 the queen of England
+Stress_L3_44 to go
+Stress_L3_45 can I?
+Stress_L3_46 do they?
+Stress_L3_47 have you
+Stress_L3_48 you and I
+Stress_L3_49 Don't want
+Stress_L3_50 what's that
+Stress_L3_51 I said son not the sun
+Stress_L4_1 It's cold
+Stress_L4_2 I agree
+Stress_L4_3 I am here
+Stress_L4_4 I was here
+Stress_L4_5 she is home
+Stress_L4_6 she is at home
+Stress_L4_7 they walk
+Stress_L4_8 they can walk
+Stress_L4_9 will she
+Stress_L4_10 you can see them
+Stress_L4_11 I was in London
+Stress_L4_12 he could have avoided it
+Stress_L4_13 It was a miracle
+Stress_L4_14 It was an accident
+Stress_L4_15 Why not?
+Stress_L4_16 why not go?
+Stress_L4_17 why not take it?
+Stress_L4_18 That's quite pleasant
+Stress_L4_19 both have them
+Stress_L4_20 come back
+Stress_L4_21 let him take it
+Stress_L4_22 Don't take too much time
+Stress_L4_23 Send them lighter
+Stress_L4_24 I am going home
+Stress_L4_25 I am going home for Christmas
+Stress_L4_26 give it to John
+Stress_L4_27 take them for a walk
+Stress_L4_28 may I apologize
+Stress_L4_29 cheap affairs
+Stress_L4_30 he was older than me
+Stress_L4_31 take it home
+Stress_L4_32 take it to John
+Stress_L4_33 take it to Johnson
+Stress_L4_34 he was most amazing
+Stress_L4_35 he was very amazing
+Stress_L4_36 John was left
+Stress_L4_37 johnny was left
+Stress_L4_38 Jennifer was left
+Intonation_L1_1 John'll be here soon
+Intonation_L1_2 I won't drive too fast (so don't worry)
+Intonation_L1_3 you like it?
+Intonation_L1_4 you can't go?
+Intonation_L1_5 he doesn't want to lend it?
+Intonation_L1_6 How's your daughter?
+Intonation_L1_7 when are you coming to see us?
+Intonation_L1_8 when did you get back from holiday?
+Intonation_L1_9 Have you seen him yet?
+Intonation_L1_10 Did John post that letter?
+Intonation_L1_11 Can I see it?
+Intonation_L1_12 Good morning
+Intonation_L1_13 Good bye
+Intonation_L1_14 Good night
+Intonation_L1_15 Thank you
+Intonation_L1_16 good
+Intonation_L1_17 All right
+Intonation_L1_18 Good luck
+Intonation_L1_19 Who's that?
+Intonation_L1_20 Don't be long
+Intonation_L1_21 Give it to me
+Intonation_L1_22 I'm just coming
+Intonation_L1_23 Is anything the matter?
+Intonation_L1_24 Can anyone tell me the time?
+Intonation_L1_25 I was only trying to help
+Intonation_L1_26 You can see it again tomorrow
+Intonation_L2_1 It was quite good
+Intonation_L2_2 I liked it very much
+Intonation_L2_3 I wouldn't mind seeing it again
+Intonation_L2_4 why did you change your mind?
+Intonation_L2_5 who on earth was that?
+Intonation_L2_6 which?
+Intonation_L2_7 (John's on holiday) Is he?
+Intonation_L2_8 (I went to the theatre last night) Did you?
+Intonation_L2_9 It's cold today isn't it?
+Intonation_L2_10 It was a very good film wasn't it?
+Intonation_L2_11 you won't worry will you?
+Intonation_L2_12 He can't really help it! Can he?
+Intonation_L2_13 Don't be a stupid idiot
+Intonation_L2_14 Take your feet off the chair
+Intonation_L2_15 come and have dinner with us
+Intonation_L2_16 have some cheese
+Intonation_L2_17 Good heavens!
+Intonation_L2_18 How extra ordinary!
+Intonation_L2_19 what a very pretty dress!
+Intonation_L2_20 Non-sense!
+Intonation_L2_21 splendid!
+Intonation_L2_22 Thank you very much
+Intonation_L2_23 Take it
+Intonation_L2_24 Have them
+Intonation_L2_25 Wonderful
+Intonation_L2_26 John's coming
+Intonation_L2_27 Susan's knocking at the door
+Intonation_L2_28 One and a half
+Intonation_L2_29 It was impossible
+Intonation_L2_30 I could have cried
+Intonation_L2_31 They were in a terrible mess
+Intonation_L2_32 It's just after midnight
+Intonation_L3_1 I looked at him (and recognized him at once)
+Intonation_L3_2 she took the cat (and drove to London)
+Intonation_L3_3 whenever he comes to visit us (he tries to borrow money)
+Intonation_L3_4 he's generous (but I don't trust him)
+Intonation_L3_5 he's handsome (you must admit)
+Intonation_L3_6 I could take you there tomorrow (but not today)
+Intonation_L3_7 I like your hat (I must admit)
+Intonation_L3_8 It wasn't a very nice thing to do (you must admit)
+Intonation_L3_9 (He's forty five) Forty six
+Intonation_L3_10 (I like him a lot) you used to like him
+Intonation_L3_11 you'll be late
+Intonation_L3_12 I shouldn't tell you again
+Intonation_L3_13 you mustn't shake it too much
+Intonation_L3_14 I went to London on Monday
+Intonation_L3_15 you can keep it if you really want it
+Intonation_L3_16 He was very well when I last saw him
+Intonation_L3_17 I'm very comfortable thank you
+Intonation_L3_18 try
+Intonation_L3_19 take it
+Intonation_L3_20 lend it to them
+Intonation_L3_21 Shut the window
+Intonation_L3_22 Do have some more tea?
+Intonation_L3_23 Send it as soon as you can
+Intonation_L3_24 Don't make me angry
+Intonation_L3_25 Don't worry
+Intonation_L3_26 Don't be late
+Intonation_L3_27 You mustn't lose it
+Intonation_L3_28 Try not to break that
+Intonation_L3_29 She won't help
+Intonation_L3_30 That's no good
+Intonation_L3_31 I don't know
+Intonation_L3_32 That was nice
+Intonation_L3_33 This is mine
+Intonation_L4_1 I didn't hurt you (so why make all that fuss?)
+Intonation_L4_2 you can't possibly do that (you ought to know better)
+Intonation_L4_3 I did (grumbling contradiction)
+Intonation_L4_4 when did I go? (or where?)
+Intonation_L4_5 why? (Because I wanted to)
+Intonation_L4_6 (I arrived at ten o' clock) when?
+Intonation_L4_7 (It took me two hours) How long?
+Intonation_L4_8 (John told me to do it) who told you to do it?
+Intonation_L4_9 Come over here will you?
+Intonation_L4_10 let's have some music shall we?
+Intonation_L4_11 Hold this for me would you?
+Intonation_L4_12 they'd like some more would they?
+Intonation_L4_13 you are coming to tea with us aren't you?
+Intonation_L4_14 you weren't here on Wednesday were you?
+Intonation_L4_15 He didn't look ill did he?
+Intonation_L4_16 Oh?
+Intonation_L4_17 Really?
+Intonation_L4_18 well?
+Intonation_L4_19 You enjoyed it
+Intonation_L4_20 You were enjoying it
+Intonation_L4_21 No-one stopping you
+Intonation_L4_22 It was perfectly understandable
+Sentence_L1_1 Which city is good to live in?
+Sentence_L1_2 Will you fit this in?
+Sentence_L1_3 His fin is pretty
+Sentence_L1_4 I insist that you sit on the tin
+Sentence_L1_5 The pig is licking the rubbish bin
+Sentence_L1_6 The little ticket is for the cricket
+Sentence_L1_7 It's inside the difficult puzzle
+Sentence_L1_8 Nick put the pin in the string
+Sentence_L1_9 Little Linda hit the ball over the hill
+Sentence_L1_10 He insisted they invite Lily to the institute
+Sentence_L1_11 That's a good book
+Sentence_L1_12 He took a rest when he could
+Sentence_L1_13 You should look under the hood
+Sentence_L1_14 THe bull shook the hook hard
+Sentence_L1_15 Please push the sugar bowl to me
+Sentence_L1_16 They love to have fun playing in the mud
+Sentence_L1_17 My younger brother likes to act rough and tough
+Sentence_L1_18 His lunch was under the funny coloured cloth
+Sentence_L1_19 cut some cloth from around the buttons, but don't cut too much
+Sentence_L1_20 Please come and visit us on Sunday for lunch
+Sentence_L1_21 Sometimes in summer we get off the bus and run home to jump in the pool.
+Sentence_L1_22 On Monday he had such trouble wrapping the bundle of papers.
+Sentence_L1_23 You can come under the umbrella to keep dry.
+Sentence_L1_24 He lost the lock at the bottom of the pond
+Sentence_L1_25 John wanted to stop when he got too hot
+Sentence_L1_26 The orange sign was on the wrong office door
+Sentence_L1_27 Oliver dropped the hot cooking pot
+Sentence_L1_28 She tossed the rock into the pond
+Sentence_L1_29 He got a frog and a dog from the pet shop
+Sentence_L1_30 The bed is ready for anybody to come and rest
+Sentence_L1_31 They met when they went to the festival
+Sentence_L1_32 Send the letter in September
+Sentence_L1_33 Every pen in the case was yellow
+Sentence_L1_34 Let's send ten gentle hens
+Sentence_L1_35 Lenny's pet was wet
+Sentence_L1_36 Can you hand me that black bag please?
+Sentence_L1_37 He has to have his apple after the ham
+Sentence_L1_38 Andy planned his adventure and then packed his knapsack
+Sentence_L1_39 His answer made the man happy
+Sentence_L1_40 The application form had a pattern on it
+Sentence_L1_41 I feel as if I need to sleep
+Sentence_L1_42 It's easy to eat meat
+Sentence_L1_43 I see sheep in the country
+Sentence_L1_44 We really need to heat the room
+Sentence_L1_45 Can you reach the piece of cheese?
+Sentence_L1_46 Who first flew to the moon?
+Sentence_L1_47 How do you do?
+Sentence_L1_48 How could you loose your flute in your room?
+Sentence_L1_49 where is my soup spoon?
+Sentence_L1_50 His father was a sergeant in the army
+Sentence_L1_51 His heart beat fast in the park
+Sentence_L1_52 The fire alarm started to ring in the bar
+Sentence_L1_53 A dog's bark can't harm
+Sentence_L1_54 It was important for Paul to hear more of the orchestra
+Sentence_L1_55 The workman repaired the floor near the door before he left
+Sentence_L1_56 The mother ordered a new car horn when the baby was born
+Sentence_L1_57 She sorted four more corn bags for her work in the store
+Sentence_L1_58 They formed a corporate portfolio for their business
+Sentence_L1_59 The bird was searching for worms
+Sentence_L1_60 The girl curled her hair
+Sentence_L1_61 She heard from the nurse that Burnie was thirsty
+Sentence_L1_62 Turn the curtain around so we can see the fern
+Sentence_L1_63 Are you certain the pearl is perfect?
+Sentence_L1_64 She purchased the purple purse herself.
+Sentence_L1_65 They might buy a pie for dinner
+Sentence_L1_66 We changed our mind and decided to find a new night club
+Sentence_L1_67 He stood behind the white line
+Sentence_L1_68 He might have nine bicycles to fix
+Sentence_L1_69 He felt fine, but still went to lie down
+Sentence_L1_70 The boy enjoyed playing with his toys
+Sentence_L1_71 The royal advisers were loyal
+Sentence_L1_72 Don't leave the oil to boil, please
+Sentence_L1_73 The rag was oily
+Sentence_L1_74 She dropped the coins into the hole in the soil
+Sentence_L1_75 You left your coat in the boat
+Sentence_L1_76 Even though he knows the code he had to show his pass
+Sentence_L1_77 His toe was caught in the hose
+Sentence_L1_78 The proposal was to close the old cold storage factory
+Sentence_L1_79 She said no when asked for a new stove
+Sentence_L1_80 The brown mouse found another house
+Sentence_L1_81 The largest bough on the tree fell to the ground
+Sentence_L1_82 How many sounds can the machine make?
+Sentence_L1_83 Mother read a story about how they found the king's crown
+Sentence_L1_84 Now he's going out
+Sentence_L1_85 She was not allowed to make a loud sound.
+Sentence_L1_86 On a rainy day it's good to stay indoors
+Sentence_L1_87 The train came to the main station
+Sentence_L1_88 They train for the race every day
+Sentence_L1_89 His face showed his pain
+Sentence_L1_90 They went straight to see the play
+Sentence_L2_1 The baby bounced on the board
+Sentence_L2_2 Please begin rubbing the blue spot
+Sentence_L2_3 Somebody was able to break the rubber part
+Sentence_L2_4 They ate baked beans, bananas, biscuits and crab.
+Sentence_L2_5 He bought a cup-board in November.
+Sentence_L2_6 Dad decided to shut the outside door
+Sentence_L2_7 The dog carried a donut
+Sentence_L2_8 Debbie had a different card
+Sentence_L2_9 David drove down the second road
+Sentence_L2_10 She made some hard dolls
+Sentence_L2_11 The engineer joked and opened the package
+Sentence_L2_12 George likes ginger with his vegetables
+Sentence_L2_13 My manager wore a badge
+Sentence_L2_14 The courageous gymnast jumped over the burning cage
+Sentence_L2_15 The food judge rejected the juiciest oranges
+Sentence_L2_16 The girl with the groceries forgot the bag
+Sentence_L2_17 He had a gorgeous garden behind the gate
+Sentence_L2_18 The big bug gathered gum
+Sentence_L2_19 The girl got a bargain at the great sale
+Sentence_L2_20 They grew gold flowers in the big, green, glass house.
+Sentence_L2_21 The dog dragged the rag on the ground
+Sentence_L2_22 Leave the stove over near the vacuum cleaner
+Sentence_L2_23 He's moving to live in the valley
+Sentence_L2_24 Please cover every avocado over there
+Sentence_L2_25 The veer received a valuable video
+Sentence_L2_26 Every day is a new adventure
+Sentence_L2_27 Their mother and brother came
+Sentence_L2_28 It was smoother than this one
+Sentence_L2_29 The man didn't know whether the other book was there
+Sentence_L2_30 His father checked the weather
+Sentence_L2_31 The zoo does have amazing animals
+Sentence_L2_32 The visitor was organised well
+Sentence_L2_33 Please choose the dessert
+Sentence_L2_34 I wasn't teasing you.
+Sentence_L2_35 I supposed it is closed
+Sentence_L2_36 I saw how he measured the erosion on the television show
+Sentence_L2_37 It was a pleasure to go to Asia
+Sentence_L2_38 The invasion created division among the people
+Sentence_L2_39 It was a happy occasion
+Sentence_L2_40 We painted the garage beige
+Sentence_L2_41 Please pass the pepper
+Sentence_L2_42 The people dropped the rope in the park
+Sentence_L2_43 The popular group played music at the pub
+Sentence_L2_44 Put that piece on top
+Sentence_L2_45 Is it possible to see the apartment opposite to this one?
+Sentence_L2_46 She started talking on the telephone after dinner
+Sentence_L2_47 Are you certain today is Tuesday?
+Sentence_L2_48 Don't sit on the wet towel
+Sentence_L2_49 Wait a minute, please
+Sentence_L2_50 He can't put it on the teak table.
+Sentence_L2_51 The butcher chose two thick chops for me
+Sentence_L2_52 Watch out for Rachel's teacher
+Sentence_L2_53 The catcher chose matching pictures for the coach
+Sentence_L2_54 We can munch on a sandwich for lunch at the beach
+Sentence_L2_55 He had achieved a high level in his Chinese studies
+Sentence_L2_56 Keep the cheque in your pocket
+Sentence_L2_57 Can my cousin pick the colour
+Sentence_L2_58 I took the sock out of the bucket
+Sentence_L2_59 He knocks on the locked back door everyday
+Sentence_L2_60 They are concerned about his comfort
+Sentence_L2_61 my family laughed and drank coffee.
+Sentence_L2_62 She found her favourite photographer
+Sentence_L2_63 Fred fell off the first roof
+Sentence_L2_64 She felt funny in the new office
+Sentence_L2_65 Follow me after the game has finished
+Sentence_L2_66 Mathew found his birthday present beneath the table
+Sentence_L2_67 He had nothing in his mouth
+Sentence_L2_68 They went down the third path to the theatre
+Sentence_L2_69 The thief found a toothbrush on the table cloth
+Sentence_L2_70 Some people eat sausages with sauce
+Sentence_L2_71 The socks have sand in them
+Sentence_L2_72 My surprise parcel disappeared
+Sentence_L2_73 Of course summer is a hot season
+Sentence_L2_74 Yes, most of my business is in that office
+Sentence_L2_75 Show me the shop she owns
+Sentence_L2_76 The ship came into shore
+Sentence_L2_77 The shiny machine was crushed
+Sentence_L2_78 Those cushions are in fashion
+Sentence_L2_79 Can you push the fish into the ocean
+Sentence_L2_80 We dreamed of swimming in September
+Sentence_L2_81 William makes many frames
+Sentence_L2_82 Some men came to eat ice cream
+Sentence_L2_83 He sometimes eats lamb and ham
+Sentence_L2_84 Come home with him.
+Sentence_L2_85 That's not the information channel
+Sentence_L2_86 The candle blew in the wind
+Sentence_L2_87 None of the nephews were noisy
+Sentence_L2_88 Don't bend the needle
+Sentence_L2_89 Send the pianist a sign when he needs to stop
+Sentence_L2_90 The singer sang a moving song
+Sentence_L2_91 Don't bang the gong
+Sentence_L2_92 The hanger was hanging on the metal ring
+Sentence_L2_93 They are buying a single frying pan
+Sentence_L2_94 He heard her talking behind the house
+Sentence_L2_95 His headache hurt
+Sentence_L2_96 How many has she got?
+Sentence_L2_97 Have you hit the nail with that hammer?
+Sentence_L2_98 The horse was happy to have a hazelnut
+Sentence_L2_99 Lions like to laze in the sun
+Sentence_L2_100 Lyn will telephone a little later
+Sentence_L2_101 Will you lend me the little ball?
+Sentence_L2_102 They cleaned the toilet loudly
+Sentence_L2_103 Let's land the plane and have lunch
+Sentence_L2_104 The road went around the rocks
+Sentence_L2_105 The first pirate had a parrot
+Sentence_L2_106 He read the paragraph to her for a while
+Sentence_L2_107 Tomorrow the ferry drivers will go on strike
+Sentence_L2_108 They were worried about the cracks in the railing
+Sentence_L2_109 What time is the wedding?
+Sentence_L2_110 The woman was swimming between the flags
+Sentence_L2_111 Beware of the wild waterfall
+Sentence_L2_112 Why do you want the wood?
+Sentence_L2_113 Yesterday, the mayor played billiards in the yard
+Sentence_L2_114 The millionaire tied his yacht to your yacht
+Sentence_L2_115 Don't yell in the yellow canyon
+Sentence_L2_116 The lawyer yawned as he paid the bill
+Sentence_L2_117 Many young children have yoyos.
+Sentence_L3_1 Students' choices of ideal educational goals are not arbitrary or whimsical.
+Sentence_L3_2 She looked crestfallen, as if he had somehow disappointed the whole human race.
+Sentence_L3_3 I took her word for it, but is she really going with you?
+Sentence_L3_4 You people don't have adjustable vision.
+Sentence_L3_5 Anything wrong, cap'n?
+Sentence_L3_6 How do they turn out later?
+Sentence_L3_7 Bob found more clams at the ocean's edge.
+Sentence_L3_8 Why put such a high value on being top dog?
+Sentence_L3_9 Vapor pressure method.
+Sentence_L3_10 Thick glue oozed out of the tube.
+Sentence_L3_11 Why charge money for such garbage?
+Sentence_L3_12 Their gait is impossible to convey in words.
+Sentence_L3_13 It might hurt you, though.
+Sentence_L3_14 How's your luck, honey?
+Sentence_L3_15 We both had hangovers.
+Sentence_L3_16 Broil or toast as usual.
+Sentence_L3_17 Smash light bulbs and their cash value will diminish to nothing.
+Sentence_L3_18 How long would it be occupied?
+Sentence_L3_19 Approach your interview with statuesque composure.
+Sentence_L3_20 How did one join them?
+Sentence_L3_21 That noise problem grows more annoying each day.
+Sentence_L3_22 Hope to see you again.
+Sentence_L3_23 Who would take over?
+Sentence_L3_24 Continental drift is a geological theory.
+Sentence_L3_25 Go change your shoes before you turn around.
+Sentence_L3_26 Thirty-five they rode at a measured pace through the valley.
+Sentence_L3_27 Absolution for his lie?
+Sentence_L3_28 They were pursuing him.
+Sentence_L3_29 Or borrow some money from someone and go home by bus?
+Sentence_L3_30 The shadow vanished.
+Sentence_L3_31 Teaching guides are included with each record.
+Sentence_L3_32 How do oysters make pearls?
+Sentence_L3_33 Did Shawn catch that big goose without help?
+Sentence_L3_34 The viewpoint overlooked the ocean.
+Sentence_L3_35 What outfit does she drive for?
+Sentence_L3_36 How about me trying to help her get her job back?
+Sentence_L3_37 I honor my mom.
+Sentence_L3_38 You were in a hurry, weren't you?
+Sentence_L3_39 With each song he gave verbal footnotes.
+Sentence_L3_40 It took him a long time to compose himself.
+Sentence_L3_41 Yet they thrived on it.
+Sentence_L3_42 And you think you have language problems.
+Sentence_L3_43 They were shattered.
+Sentence_L3_44 How good is your endurance?
+Sentence_L3_45 Boy, you ain't fooling nobody but yourself.
+Sentence_L3_46 Cottage cheese with chives is delicious.
+Sentence_L3_47 Thoroughly wised up.
+Sentence_L3_48 A moth zig-zagged along the path through Otto's garden.
+Sentence_L3_49 We'll talk over at your office.
+Sentence_L3_50 He shrugged casually.
+Sentence_L3_51 Who told you to do it?
+Sentence_L3_52 The tapes show that.
+Sentence_L3_53 Challenge each general's intelligence.
+Sentence_L3_54 They make us conformists look good.
+Sentence_L3_55 How ya gonna keep 'em down on the farm?
+Sentence_L3_56 If you do, go to it.
+Sentence_L3_57 These air or gas bubbles make highly functional thermal barriers.
+Sentence_L3_58 We'll ride out as soon as we've had chuck.
+Sentence_L3_59 Our boy didn't chicken out, no sir.
+Sentence_L3_60 I'm sorry but I shall have to search this house.
+Sentence_L3_61 By eating yogurt, you may live longer.
+Sentence_L3_62 Could it do otherwise?
+Sentence_L3_63 A good morrow to you, my boy.
+Sentence_L3_64 Perfect, he thought.
+Sentence_L3_65 In a way, he couldn't blame her.
+Sentence_L3_66 Add things as you find you need 'em.
+Sentence_L3_67 The haunted house was a hit due to outstanding audio-visual effects.
+Sentence_L3_68 Put the butcher block table in the garage.
+Sentence_L3_69 Please shorten this skirt for Joyce.
+Sentence_L3_70 I'd ride the subway, but I haven't enough change.
+Sentence_L3_71 A third shot doused the light.
+Sentence_L3_72 Here they did not need to be in ghettos.
+Sentence_L3_73 Where were you while we were away?
+Sentence_L3_74 The coalition was to prove inadvisable.
+Sentence_L3_75 I'm going to search this house.
+Sentence_L3_76 I've got to bathe my feet.
+Sentence_L3_77 All your wishful thinking won't change that.
+Sentence_L3_78 Aw, shut up, he said.
+Sentence_L3_79 Hispanic costumes are quite Colorful.
+Sentence_L3_80 Did you eat yet?
+Sentence_L3_81 George is paranoid about a future gas shortage.
+Sentence_L3_82 The hotel owner shrugged.
+Sentence_L3_83 Who took the kayak down the bayou?
+Sentence_L3_84 May I get some more cookies, Nora?
+Sentence_L3_85 People never live forever.
+Sentence_L3_86 Those who are not purists use canned vegetables when making stew.
+Sentence_L3_87 Now he'll choke for sure.
+Sentence_L3_88 A long, long way down.
+Sentence_L3_89 The small boy put the worm on the hook.
+Sentence_L3_90 About dawn he got up to blow.
+Sentence_L3_91 You gonna give me a drink, fella?
+Sentence_L3_92 How on earth do you manage it?
+Sentence_L3_93 However, a boy's lively eyes might rove.
+Sentence_L3_94 Caution: continuous administration is not recommended for lactating cows.
+Sentence_L3_95 Fools, he bayed, what do you think you are doing?
+Sentence_L3_96 Her hum became a gurgle of surprise.
+Sentence_L3_97 Such optimism was completely unjustified.
+Sentence_L3_98 They were all good men.
+Sentence_L3_99 She overplayed her hand.
+Sentence_L3_100 Were you in love with that girl?
+Sentence_L4_1 That's a nice suit. I haven't seen it before, have I?
+Sentence_L4_2 No. It's the first time I've worn it, actually. I only got it about four days ago. you like it, do you?
+Sentence_L4_3 Very much. Did you have it specially made, or did you buy it off the peg?
+Sentence_L4_4 I had it made. I very rarely buy a suit, so I thought I'd have it tailored, and I'm quite pleased with it.
+Sentence_L4_5 I should think so. It's very handsome. May I ask where you got it?
+Sentence_L4_6 The same place as I got my last one, nineteen years ago.
+Sentence_L4_7 Nineteen years? Do you really mean to tell me you haven't had a suit since then?
+Sentence_L4_8 That's right. I don't often wear a suit, you see, so they tend to last a long time.
+Sentence_L4_9 Nineteen years is certainly a long time; and even if you don't wear them much, your old one must have lasted well.
+Sentence_L4_10 Oh, it did. They did a very good job on it.
+Sentence_L4_11 What was the name of the tailor?
+Sentence_L4_12 Philipson. It's quite a small shop right at the end of King street.
+Sentence_L4_13 I know it. Rather a shabby-looking place. I've never been in there.
+Sentence_L4_14 I wouldn't call it shabby, but it isn't very modern, I admit. However, they're very obliging, and take a great deal of trouble.
+Sentence_L4_15 So I can see. I think I'll go along there. I need a new suit. Oh, by the way, what sort of prices do they charge?
+Sentence_L4_16 Pretty reasonable, really. This was eighty pounds.
+Sentence_L4_17 That's not bad. I think I'll look in there tomorrow.
+Sentence_L4_18 Yes, do. Mention my name if you like. It won't do any harm, and it might do some good. I've just paid my bill.
+Sentence_L4_19 I need a couple of shirts. Grey terylene, please.
+Sentence_L4_20 Certainly, sir. I'll just get some out. Would you mind taking a seat for a minute. I shan't be long.
+Sentence_L4_21 No, don't be too long. I haven't very much time.
+Sentence_L4_22 Very good, sir. Here's a nice shirt; we sell a lot of this one.
+Sentence_L4_23 Do you, now? Yes, it's the sort of style I want, but I asked for grey. This is purple.
+Sentence_L4_24 Purple, sir? Surely not. It's what we call silver-blue.
+Sentence_L4_25 Well, it looks purple to me. Anyway, I'd like something a little less bright, more like the one I'm wearing.
+Sentence_L4_26 Oh, that sort of grey. I haven't seen that for years.
+Sentence_L4_27 I bought it here, six months ago.
+Sentence_L4_28 Did you really, sir? It must have been old stock.
+Sentence_L4_29 Well, see if you've still got any left, will you?
+Sentence_L4_30 Ah, yes, here we are. I'm sorry about the dust, sir. Can I lend you a handkerchief?
+Sentence_L4_31 No, thank you, I'll survive. Yes, that looks better. Have you another one like it?
+Sentence_L4_32 I'm afraid not, sir. It's probably the last in the country.
+Sentence_L4_33 Oh, all right, I'll take it. How much is it?
+Sentence_L4_34 Twelve pounds, sir. It was a very good shirt in its time.
+Sentence_L4_35 I should think so, at twelve pounds. Can I pay by cheque?
+Sentence_L4_36 Certainly, sir. You have a cheque card?
+Sentence_L4_37 Yes, I have.
+Sentence_L4_38 And would you just put your name and address on the back?
+Sentence_L4_39 I can never understand that. If the cheque was no good, I'd put a false name and address, wouldn't I?
+Sentence_L4_40 You're joking, sir, of course. I naturally assume your cheque is good.
+Sentence_L4_41 Very trusting of you. It is, as a matter of fact.
+Sentence_L4_42 Is there anything else you need, sir? Ties, socks, vests?
+Sentence_L4_43 I don't think so, thank you. Good morning.
+Sentence_L4_44 Good day, sir.
