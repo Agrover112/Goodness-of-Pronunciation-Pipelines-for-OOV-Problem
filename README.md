@@ -28,8 +28,8 @@ sudo bash get_acoustic_metrics.sh
 
 Outputs:
 
-- `gop/`: Contains GoP scored outputs and phone level posteriors extracted using show transition table.
-- `lab/posteriors/`: Contains ID_posterior_infile.ark from `nnet-compute` and ID_phone_posteriors.ark are posteriors using Kaldi utils.
+- `gop/`: Contains GoP scored outputs and phone level posteriors (ID_gop_phone_posteriors.txt).
+- `lab/posteriors/`: Contains ID_posterior_infile.ark from `nnet-compute` and ID_phone_posteriors.ark are posteriors in different format than gop  posteriors.
 - `lab/`: Contains Forced Alignments outputs(phone level and word level .ctm files) ID_word_.ctm and ID_alignment_infile.txt
 
 ```
