@@ -1,6 +1,6 @@
 
 # Goodness of Pronounication Workflow
-
+A proposed pipeline for GoP computation solving OOV problem at Testing time using Vocab/Lexicon expansion techniques.
 ## Main Files
 - `run1File.sh` : Computes Forced Alignments.
 - `run1File_posterior.sh` : Computation of Acoustic model Posterior Probabilities.
@@ -29,7 +29,7 @@ Entry-point for running the entire pipeline
 sudo bash get_acoustic_metrics.sh
 ```
 
-Outputs:
+## Outputs:
 
 - `gop/`: Contains GoP scored outputs and phone level posteriors (ID_gop_phone_posteriors.txt).
 - `lab/posteriors/`: Contains ID_posterior_infile.ark from `nnet-compute` and ID_phone_posteriors.ark are posteriors in different format than gop  posteriors.
