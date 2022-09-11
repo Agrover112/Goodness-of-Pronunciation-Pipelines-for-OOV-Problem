@@ -6,6 +6,7 @@
 - `run1File_posterior.sh` : Computation of Acoustic model Posterior Probabilities.
 - `runAllFiles.sh : Calls` necessary files for computation of posteriors and alignment ,GoP computation.
 - `online_computation.sh:` Responsible for the Online/Hybrid pipelne of GoP computation.
+- `conf/: ` Configuration files for MFCC, i-vector extractors,etc.
 - `get_failed_entries.sh` : File generates a Lexicon from a text file or dir of text files, along with list of failed entries if any.
 - `Goodness-of-pronounciation/prop_gop_eqn.py` : Contains Python code which calculates GoP scores using posterior and alignment inputs. (Refer to comments in my fork for detailed understanding)
 
