@@ -25,6 +25,7 @@ $DIR/src/featbin/compute-cmvn-stats --spk2utt=ark:$DIR3b/spk2utt scp:$DIR3b/feat
 
 
 $currPWD/steps/online/nnet2/align.sh --nj 1 $DIR3b $lang $dir $dir/ali || exit 1
+#$currPWD/steps/align_si.sh --nj 1 $DIR3b $lang $dir(exp/tri2b) $dir/ali
 mv $dir/ali/ali.1.gz $dir/ali/${temp}_ali.gz
 gunzip $dir/ali/${temp}_ali.gz
 
