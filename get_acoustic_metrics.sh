@@ -22,13 +22,14 @@ status=$?
 
 
 # Update these locations to run properly 
-wavDir=$PWD"/wavlib/wav";
-#wavDir=$PWD"/wavlib/train_clean_example"
-#transFile=$PWD"/wavlib/train_clean_example/trans.txt" #update this file with your trascriptions file
-transFile=$PWD"/wavlib/wav/1272-128104.trans.txt"
-#outFile=$PWD"/data/split1/1/text";
+
+wavDir=$1 #wavDir=$PWD"/wavlib/wav";
+transFile=$2  #transFile=$PWD"/wavlib/wav/1272-128104.trans.txt"  #update this file with your trascriptions file
+outDir=$3     #outDir=$PWD"/wavlib/lab"
+ 
+
 outFile=$PWD"/wavlib/data/split1/1/text"
-#outDir=$PWD"/lab"; # update this variable with your destination folder
-outDir=$PWD"/wavlib/lab"
+
+
 
 generate_alignment_infile_posteriors
