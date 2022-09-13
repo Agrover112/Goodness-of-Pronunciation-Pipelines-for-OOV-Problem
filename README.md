@@ -2,6 +2,7 @@
 # Goodness of Pronounication Workflow
 A proposed pipeline for GoP computation solving OOV problem at Testing time using Vocab/Lexicon expansion techniques.
 We also provide utilities for extracting the Phoneme posteriors , Word boundaries(alignments), using GoP scores as vectors.
+The detailed explanation of the pipelines and methods are described in this [report](https://arxiv.org/abs/2209.03787).
 ## Main Files
 - `run1File.sh` : Computes Forced Alignments.
 - `run1File_posterior.sh` : Computation of Acoustic model Posterior Probabilities.
