@@ -1,7 +1,6 @@
 fileIn=$1;
 fileOut=$2;
 currPWD=$PWD
-#cd "/home/chiranjeevi/kaldi/egs/chiru/FA_wordTrans/";
 
 #./cmd.sh
 #./path.sh
@@ -15,7 +14,7 @@ echo "UTTERENCE_ID UTTERENCE_ID" > $DIR3b/spk2utt
 echo "UTTERENCE_ID UTTERENCE_ID" > $DIR3b/utt2spk
 
 
-$DIR/src/featbin/compute-mfcc-feats --verbose=2 --config=/home/chiranjeevi/kaldi/egs/chiru/FA_wordTrans/conf/mfcc.conf scp,p:$DIR3b/wav.scp ark:- | $DIR/src/featbin/copy-feats --compress=true ark:- ark,scp:$DIR3b/mfcc_test.ark,$DIR3b/feats.scp
+$DIR/src/featbin/compute-mfcc-feats --verbose=2 --config=/home/${USER}/kaldi/egs/chiru/FA_wordTrans/conf/mfcc.conf scp,p:$DIR3b/wav.scp ark:- | $DIR/src/featbin/copy-feats --compress=true ark:- ark,scp:$DIR3b/mfcc_test.ark,$DIR3b/feats.scp
 
 
 $DIR/src/featbin/compute-cmvn-stats --spk2utt=ark:$DIR3b/spk2utt scp:$DIR3b/feats.scp ark,scp:$DIR3b/cmvn_test.ark,$DIR3b/cmvn.scp

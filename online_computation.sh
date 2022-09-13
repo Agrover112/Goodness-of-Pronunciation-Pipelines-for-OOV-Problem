@@ -6,12 +6,12 @@
 currPWD=$PWD
 libri_path="../librispeech/s5"
 
-db1="/home/chiranjeevi/kaldi/egs/librispeech/s5/data/local/dict_nosp/cmudict.0.7a.plain"
-db2="/home/chiranjeevi/kaldi/egs/librispeech/s5/data/local/lm/librispeech-vocab.txt"
-lexicon="/home/chiranjeevi/kaldi/egs/librispeech/s5/data/local/dict_nosp/lexicon_raw_nosil.txt"
+db1="/home/${USER}/kaldi/egs/librispeech/s5/data/local/dict_nosp/cmudict.0.7a.plain"
+db2="/home/${USER}/kaldi/egs/librispeech/s5/data/local/lm/librispeech-vocab.txt"
+lexicon="/home/${USER}/kaldi/egs/librispeech/s5/data/local/dict_nosp/lexicon_raw_nosil.txt"
 # cp old-lexicon _appended
 # initialize with langer first, copy dir phones to nnet phones
-#lexicon="/home/chiranjeevi/kaldi/egs/librispeech/s5/data/local/dict_nosp/lexicon_raw_nosil_appended.txt" #HYBRID
+#lexicon="/home/${USER}/kaldi/egs/librispeech/s5/data/local/dict_nosp/lexicon_raw_nosil_appended.txt" #HYBRID
 
 function add_silences_to_lexicon
 {

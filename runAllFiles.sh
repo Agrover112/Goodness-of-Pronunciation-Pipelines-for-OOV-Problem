@@ -8,7 +8,7 @@ outDir=$4; # update this variable with your destination folder
 currPWD=$PWD
 mkdir -p $outDir
 
-export DIR="/home/chiranjeevi/kaldi";
+export DIR="/home/${USER}/kaldi";
 export DIR1b=$PWD"/wavlib/exp";
 #export DIR1b=$PWD/"exp"
 export DIR3b=$PWD"/wavlib/data"
@@ -75,7 +75,7 @@ do
                 $DIR/src/bin/post-to-pdf-post $dir/final.mdl ark:- ark:- |
                $DIR/src/bin/post-to-phone-post --transition-id-counts="${temp}.tacc" $dir/final.mdl ark:-  "ark,t:$currPWD/wavlib/lab/posteriors/${temp}_phone_posteriors.ark"
         rm -rf $dir/ali/*
-        #rm -f ${temp}.tacc
+        rm -f ${temp}.tacc
 
 
         printf "Calculating Goodness of Pronounciation scores for %s \n" "$temp"
@@ -84,7 +84,7 @@ do
 
         python3 prop_gop_eqn.py $currPWD/wavlib/lab/posteriors/${temp}_posterior_infile.ark $currPWD/wavlib/lab/${temp}_alignment_infile.txt $currPWD/gop/${temp}_gop.txt
 
-        #rm -f trans_vocab.txt W
+        #rm -f trans_vocab.txt W   #Online mode 
         #rm -f file_lexicon.txt W
         #rm -f $libri_path/not_both1.txt
         #rm -rf wavlib/data/local/dict/online_dict/* W
@@ -100,8 +100,3 @@ done
 
 echo "DONE"
 
-
-#echo "UTTERENCE_ID" `cat $transFile | grep "\b"$temp" " | cut -d" " -f2- |sed "s/ (/=/g" | cut -d"=" -f1 | sed "s/) /=/g" | cut -d"=" -f2- | sed "s/'/XXXXX/g" | tr '[:punct:]' ' ' | tr -s " " | sed "s/XXXXX/'/g" | sed "s/ '/ /g" | tr '[A-Z]' '[a-z]'` > $outFile
-#cat $outFile
-#awk '{gsub("([0-9]+-[0-9]+-[0-9]+)","UTTERANCE_ID",$1)}1' $transFile | tr '[A-Z]' '[a-z]' | cat >$outFile
-#cat $transFile | tr [A-Z] [a-z]  | awk '{gsub("([0-9]+-[0-9]+-[0-9]+)","UTTERENCE_ID",$1)}1' | cat>$outFile
