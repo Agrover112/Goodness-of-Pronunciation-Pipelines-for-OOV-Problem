@@ -28,7 +28,7 @@ The entire `data` and `exp` and `lab` folders can be found [here](https://drive.
 
 Entry-point for running the entire pipeline
 ```bash
-sudo bash get_acoustic_metrics.sh
+sudo bash get_acoustic_metrics.sh $1 $2 $3 
 ```
 
 ## Outputs:
