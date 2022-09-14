@@ -1,5 +1,7 @@
 
 # Goodness of Pronunciation Pipelines for OOV Problem 
+[![DOI](https://zenodo.org/badge/496329094.svg)](https://zenodo.org/badge/latestdoi/496329094)
+
 A proposed pipeline for GoP computation solving OOV problem at Testing time using Vocab/Lexicon expansion techniques.
 We also provide utilities for extracting the Phoneme posteriors , Word boundaries(alignments), using GoP scores as vectors.
 The detailed explanation of the pipelines and methods are described in this [report](https://arxiv.org/abs/2209.03787).
