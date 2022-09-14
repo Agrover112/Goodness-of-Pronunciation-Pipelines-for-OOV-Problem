@@ -1,5 +1,5 @@
 
-# Goodness of Pronounication Workflow
+# Goodness-of-Pronunciation-Pipelines-for-OOV-Removal
 A proposed pipeline for GoP computation solving OOV problem at Testing time using Vocab/Lexicon expansion techniques.
 We also provide utilities for extracting the Phoneme posteriors , Word boundaries(alignments), using GoP scores as vectors.
 The detailed explanation of the pipelines and methods are described in this [report](https://arxiv.org/abs/2209.03787).
