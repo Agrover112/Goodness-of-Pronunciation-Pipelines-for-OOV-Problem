@@ -1,11 +1,11 @@
+
 cff-version: 1.1.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Joe
-    given-names: Johnson
+  - family-names: Ankit
+    given-names: Ankit 
     orcid: https://orcid.org/0000-0003-3724-6605
-title: Agrover112/Goodness-of-Pronunciation-Pipelines-for-OOV-Problem: New Release
+title: Goodness-of-Pronunciation-Pipelines-for-OOV-Problem
 version: new
-doi: 10.5281/zenodo.7078827
 date-released: 2022-09-14
-url: "https://doi.org/10.5281/zenodo.7078827"
+doi: 10.5281/zenodo.7078826.
