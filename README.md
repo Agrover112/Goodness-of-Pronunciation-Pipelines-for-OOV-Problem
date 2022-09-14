@@ -14,7 +14,7 @@ The detailed explanation of the pipelines and methods are described in this [rep
 - `get_failed_entries.sh` : File generates a Lexicon from a text file or dir of text files, along with list of failed entries if any.
 - `Goodness-of-pronounciation/prop_gop_eqn.py` : Contains Python code which calculates GoP scores using posterior and alignment inputs. (Refer to comments in my fork for detailed understanding).
 
-The entire `data` and `exp` and `lab` folders can be found [here](https://drive.google.com/drive/folders/1-q1a-jv-dhJdn8KTRqWmxW3wF0e-V0sT?usp=sharing)
+The entire `data` and `exp` and `lab` folders can be found [here](https://drive.google.com/drive/folders/1-q1a-jv-dhJdn8KTRqWmxW3wF0e-V0sT?usp=sharing).
 
 ## Utils:
 
