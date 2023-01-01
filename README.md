@@ -42,3 +42,27 @@ Entry-point for running the entire pipeline
 
 ![image](https://user-images.githubusercontent.com/42321810/189543094-bb386620-1208-4544-8330-3588dfcf76cf.png)
 
+# Citation
+Please cite the both the sources (Arxiv + Zenodo) if any/all of the code is used in your respective research work.
+```
+@software{Ankit_Goodness-of-Pronunciation-Pipelines-for-OOV-Problem_2022,
+author = {Ankit, Ankit},
+doi = {10.5281/zenodo.7078826.},
+month = {9},
+title = {{Goodness-of-Pronunciation-Pipelines-for-OOV-Problem}},
+version = {new},
+year = {2022}
+}
+```
+```
+@misc{https://doi.org/10.48550/arxiv.2209.03787,
+  doi = {10.48550/ARXIV.2209.03787}
+  url = {https://arxiv.org/abs/2209.03787},
+  author = {Grover, Ankit},
+  keywords = {Computation and Language (cs.CL), Sound (cs.SD), Audio and Speech Processing (eess.AS), FOS: Computer and information sciences, FOS: Computer and information sciences, FOS: Electrical engineering, electronic engineering, information engineering, FOS: Electrical engineering, electronic engineering, information engineering},
+  title = {Goodness of Pronunciation Pipelines for OOV Problem},
+  publisher = {arXiv},
+  year = {2022}, 
+  copyright = {Creative Commons Attribution Non Commercial Share Alike 4.0 International}
+}
+```
